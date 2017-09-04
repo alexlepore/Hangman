@@ -1,0 +1,61 @@
+body {
+	background: black;
+}
+.panel-default{
+	text-align: center;
+	background: black;
+	border-style: dotted;
+	border-color: #CC6600;
+	color: white;
+}
+.panel-heading{
+	background: black !important;
+	border-bottom: 0 !important;
+	color: white !important;
+}
+.panel-body{
+	background: black !important;
+	border-bottom: 0 !important;
+	color: white !important;
+}
+#game{
+	background: black !important;
+	border-bottom: 0 !important;
+	color: white !important;
+}
+#h3{
+	color: white;
+	margin-left: 400px;
+	font-family: eater;
+	color: #CC6600;
+	top:269px;
+	font-size: 60px;
+	position: absolute;
+
+}
+.footer{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: black !important;
+	color: #FF4500 !important;
+}
+.footer2{
+	background: #FF4500 !important;
+	padding-top: 10px;
+}
+#hang{
+	position: relative;
+}
+#cat{
+	padding-bottom: 40px;
+	position: relative;
+	bottom: 105px;
+}
+#box{
+	margin-left: 30px;
+}
+.button,
+.text{
+	color: black;
+}

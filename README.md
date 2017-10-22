@@ -4,6 +4,6 @@
 
 #This particular game of hangman is halloween themed. 
 
-#![Image of CLI](/images/Capture.PNG)
+#![Image of CLI](/assets/images/Capture.PNG)
 
-#![Image of CLI](/images/Capture2.PNG)
+#![Image of CLI](/assets/images/Capture2.PNG)

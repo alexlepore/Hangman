@@ -2,9 +2,7 @@
 
 # https://powerful-atoll-60428.herokuapp.com/
 
-# This is a project that I developed in jquery, with style from css. 
-
-# This particular game of hangman is halloween themed. 
+# Halloween-themed version of hangman
 
 #![Image of CLI](/assets/images/Capture.PNG)
 
